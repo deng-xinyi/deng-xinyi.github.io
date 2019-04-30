@@ -1,13 +1,18 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Prague, Czech Republic. Poster. Organization for Computational Neurosciences Annual Meeting. July 2015",
+    50.0755,
+    14.4378
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Quebec city, Canada. Poster. Organization for Computational Neurosciences Annual Meeting. July 2014",
+    46.8139,
+    -71.2080
+  ],
+  [
+    "Lisbon, Portugal. Poster. Computational and Systems Neuroscience (CoSyNe). March 2019.", 
+    38.7077926, 
+    -9.1365061
   ],
   [
     "San Francisco, California",
@@ -15,8 +20,13 @@ var addressPoints = [
     -122.4192362
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Milan, Italy. Invited session. International Conference of the IEEE Engineering In Medicine and Biology Society. August 2015", 
+    45.4667971, 
+    9.1904984
+  ],  
+  [
+    "Snowbird, UT. Minisymposium. Society for Industrial and Applied Mathematics Conference on Applications of Dynamical Systems (SIAM DS). May 2015",
+    40.3452,
+    -111.3923
   ]
 ];
