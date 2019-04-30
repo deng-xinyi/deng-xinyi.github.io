@@ -15,11 +15,6 @@ var addressPoints = [
     -9.1365061
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
     "Milan, Italy. Invited session. International Conference of the IEEE Engineering In Medicine and Biology Society. August 2015", 
     45.4667971, 
     9.1904984
