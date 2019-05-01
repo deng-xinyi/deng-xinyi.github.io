@@ -18,11 +18,11 @@ Columbia University
 
 Education & Training
 ------
-* **Postdoctoral Training**, Grossman Center for the Statistics of Mind  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  July 2016--Present
-  * Columbia University, New York, NY
+* **Postdoctoral Training**, Grossman Center for the Statistics of Mind
+  * Columbia University, New York, NY. July 2016--Present
   
-* **Ph.D., Mathematics**, specialization in Statistics &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  May 2016
-  * Boston University, Boston, MA
+* **Ph.D., Mathematics**, specialization in Statistics
+  * Boston University, Boston, MA. 2016
   
-* **B.S., Statistics** &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  May 2011
-  * American University, Washington, D.C.
+* **B.S., Statistics**
+  * American University, Washington, D.C. 2011
