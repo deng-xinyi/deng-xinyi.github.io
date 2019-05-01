@@ -1,6 +1,6 @@
 ---
-title: 'An Imagined World'
-url: "https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041"
+title: '[An Imagined World](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)'
+permalink: /posts/an-imagined-world
 tags:
   - women in science
 ---
