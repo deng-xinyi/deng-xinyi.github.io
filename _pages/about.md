@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a [Postdoctoral Research Scientist](https://ctn.zuckermaninstitute.columbia.edu/people/xinyi-deng) at Columbia University's [Zuckerman Mind Brain Behavior Institute](https://zuckermaninstitute.columbia.edu/).
+I am a Postdoctoral Research Scientist at Columbia University's [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) of Mind Brain Behavior.
 
 
 Education & Training
