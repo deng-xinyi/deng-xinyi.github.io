@@ -15,9 +15,12 @@ main:
             
   - title: "CV"
     url: "https://deng-xinyi.github.io/files/vitae.pdf"
-         
+ 
   - title: "Random"
-    url: /year-archive/
+    url: /random/
+
+  #- title: "Blog posts"
+  #  url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/
