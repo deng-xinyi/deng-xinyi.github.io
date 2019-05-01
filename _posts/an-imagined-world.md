@@ -5,4 +5,4 @@ tags:
   - women in science
 ---
 
-[An Imagined World](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)
+[An Imagined World: A Story of Scientific Discovery](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)
