@@ -5,9 +5,9 @@ permalink: /random/
 author_profile: true
 ---
 
-{% include base_path %}
 
+[An Imagined World: A Story of Scientific Discovery](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)
+------
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+[Lessons from the Lobster]("https://www.amazon.com/Lessons-Lobster-Marders-Neuroscience-Press-ebook/dp/B07DK1Q71Z")
+------
