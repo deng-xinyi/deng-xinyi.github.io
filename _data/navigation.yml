@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /portfolio/
+    url: /research/
     
   - title: "Publications"
     url: /publications/
@@ -12,6 +12,9 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/
+  
+  #- title: "Portfolio"
+  #  url: /portfolio/  
             
   - title: "CV"
     url: "https://deng-xinyi.github.io/files/vitae.pdf"
