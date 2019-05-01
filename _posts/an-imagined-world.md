@@ -1,5 +1,6 @@
 ---
 title: 'An Imagined World'
+date: 2015-08-14
 permalink: /posts/an-imagined-world/
 tags:
   - women in science
