@@ -1,5 +1,6 @@
 ---
 title: 'Lessons from the Lobster'
+date: 2018-08-14
 permalink: /posts/lessons-from-the-lobster/
 tags:
   - women in science
