@@ -12,3 +12,13 @@ author_profile: true
 
 [Lessons from the Lobster](https://www.amazon.com/Lessons-Lobster-Marders-Neuroscience-Press-ebook/dp/B07DK1Q71Z)
 ------
+
+[Bright Galaxies, Dark Matters](https://www.amazon.com/Bright-Galaxies-Matters-MASTERS-PHYSICS/dp/1563962314)
+------
+
+[I Died for Beauty: Dorothy Wrinch and the Cultures of Science](https://www.amazon.com/Died-Beauty-Dorothy-Cultures-Science/dp/0199732590)
+------
+
+[Dorothy Hodgkin: A Life](https://www.amazon.com/Dorothy-Crowfoot-Hodgkin-Patterns-Proteins/dp/1448217601)
+------
+
