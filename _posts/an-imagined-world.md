@@ -1,5 +1,6 @@
 ---
 title: 'An Imagined World'
+permalink: /posts/an-imagined-world/
 tags:
   - women in science
 ---
