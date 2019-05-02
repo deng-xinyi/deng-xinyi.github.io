@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "about me"
-excerpt: "about me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Research Scientist at Columbia University's [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) of Mind Brain Behavior.
+I am a postdoctoral research scientist at Columbia University's [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) of Mind Brain Behavior.
 
 
 Education & Training
