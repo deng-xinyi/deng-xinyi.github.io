@@ -12,7 +12,7 @@ It was in that moment I realized that, in scientific discovery, advanced techniq
 
 Below outlines my motivated iteration between developing new statistical methodology and applying them to make interesting scientific observations.
 
-Phenomena observed by neuroscientists can be analyzed from a rigorous, statistical perspective
+Scientific problems catalyze ideas for doing statistics
 ======
 
 Clusterless methods: inference without spike sorting
