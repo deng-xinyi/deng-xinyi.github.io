@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-Below outlines my motivated iteration between developing new statistical methodology and applying them to make interesting scientific observations.
+Below outlines my motivated iteration between developing new statistical methodologies and applying them to make interesting scientific observations.
 
 Scientific problems catalyze ideas for doing statistics
 ------
