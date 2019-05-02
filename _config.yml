@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyi / Statistical Neuroscience" # "Your Name / Site Title"
+title                    : "Xinyi / Analyst of Neural Data" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Xinyi Deng"
 description              : &description "personal website"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinyi Deng"
   avatar           : "profile.jpg"
-  bio              : "Analyst of Neural Data"
+  bio              : ""
   location         : "New York, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
