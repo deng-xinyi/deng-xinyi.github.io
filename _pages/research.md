@@ -23,7 +23,7 @@ State-space methods for monitoring and improving cognitive flexibility
 ------
 Deficits in cognitive flexibility have been linked to autism, obsessive-compulsive disorders and schizophrenia. Investigations of these deficits have led to new multi-faceted experimental design and have generated behavioral data with growing complexity. In addition, technological advances now allow for recording of large quantities of information from the brain at multiple spatial and temporal scales, includes multi-channel electrode arrays, EEG, MEG and fMRI. Access to this type of high-dimensional data, both behavioral and neural, has also presented a challenge for statistical data analysis and modeling: What is an adequate representation of the relation between features of the behavioral task and structures in the neural activity?
 
-A statistically-principled approach to optimizing placement of deep brain stimulation electrode
+A statistically-principled approach to optimizing placement of deep brain stimulation electrodes
 ------
 <img align="right" src="/images/sfn14.png" width="25%"> Deep brain stimulation (DBS) is a highly promising therapy for Parkinson's disease. Yet most patients do not get full therapeutic benefit from DBS due to its critical dependence on electrode location in the sub-thalamic nucleus (STN) for therapeutic efficacy. Previously, many methods have been proposed and used to study rhythmic dynamics in continuous-valued recordings such as EEG and LFP, but methods suitable for the discrete, single unit spiking activity that are typically recorded from STN neurons in Parkinson's disease patients are needed to address a number of critical statistical challenges.
 
