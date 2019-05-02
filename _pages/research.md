@@ -4,12 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-I remember the moment in 2014 when, as a graduate student in statistics who was working with rat hippocampal data but knew zero about the brain, I thought I discovered reverse replay. Having just finished the last line of MATLAB code for the clusterless decoder I was developing, I rushed to try it on an example sharp wave-ripple event to see what content it replayed. Puzzled by the paradoxicality of the decoded trajectory at first, suddenly I understood, "the rat was imagining itself running tail first!"
-
-I also remember the moment when I learned I didn't "discover" reverse replay; [David Foster did](https://www.nature.com/articles/nature04587), eight years earlier. As I was reading that 4-page paper he and Matt Wilson co-authored, I was in awe of its Figure 3 that sprawled an entire page, so plainly yet so powerfully laying out 101 (yes, I counted) panels of raw spike rasters, and I was astounded by the absence of any fancy, complex analyses.
-
-It was in that moment I realized that, in scientific discovery, advanced techniques and methods matter, but good data and intelligent observation matter more. Since then, I have started significantly broadening my survey of experimental literature, attending neuroscience seminars covering diverse topics, and making annual pilgrimage to SfN. 
-
 Below outlines my motivated iteration between developing new statistical methodology and applying them to make interesting scientific observations.
 
 Scientific problems catalyze ideas for doing statistics
