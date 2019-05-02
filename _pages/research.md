@@ -12,8 +12,7 @@ It was in that moment I realized that, in scientific discovery, advanced techniq
 
 Below outlines my motivated iteration between developing new statistical methodology and applying them to make interesting scientific observations.
 
-## Statistical Methodology
-how phenomena observed by neuroscientists can be analyzed from a rigorous, statistical perspective?
+Statistical Methodology: how phenomena observed by neuroscientists can be analyzed from a rigorous, statistical perspective?
 ======
 
 Clusterless methods: decoding without spike sorting
@@ -31,6 +30,7 @@ A statistically-principled approach to optimizing placement of deep brain stimul
 
 Neuroscience
 ======
+
 Event-to-event variability in structural organization of internally generated hippocampal sequences
 ------
 <img align="right" src="/images/cosyne19.png" width="30%"> The ability to flexibly remember experiences at different levels of specificity is crucial to how we learn and howwe make decisions.  However, the underlying mechanisms involved in flexibly storing and retrieving memories invarying degrees of detail remain elusive. Current theories suggest that memories of past experiences are storedwhen specific patterns of neural activity cause changes in the connections among neurons, and they are retrievedwhen these patterns are reinstated. For example, when an animal moves through its environment, spiking activity of hippocampal place cells is paced by an underlying "clock" with a constant rate at theta frequency.  When theanimal slows down or pauses, place cell population is sequentially reactivated during sharp wave-ripples (SWRs),which often represents a replay of past trajectory on a compressed time scale.  Is the hippocampal clock alsoconstant during the SWR state?
