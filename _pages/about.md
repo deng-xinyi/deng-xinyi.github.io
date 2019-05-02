@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research scientist in the group of Dr. Liam Paninski in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at Columbia University's Zuckerman Institute of Mind Brain Behavior.
+I am a postdoctoral research scientist in Dr. Liam Paninski's group in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at Columbia University's Zuckerman Institute.
 
 
 Education & Training
