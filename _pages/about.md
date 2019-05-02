@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research scientist in the research group of [Dr. Liam Paninski](http://www.stat.columbia.edu/~liam/) at Columbia University's [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) of Mind Brain Behavior.
+I am a postdoctoral research scientist in the group of [Dr. Liam Paninski](http://www.stat.columbia.edu/~liam/) at Columbia University's [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) of Mind Brain Behavior.
 
 
 Education & Training
