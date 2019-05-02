@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "xinyi / statistical neuroscience" # "Your Name / Site Title"
+title                    : "Xinyi / Statistical Neuroscience" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Xinyi Deng"
 description              : &description "personal website"
