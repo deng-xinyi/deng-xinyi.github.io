@@ -19,7 +19,7 @@ Deficits in cognitive flexibility have been linked to autism, obsessive-compulsi
 
 ### A statistically-principled approach to optimizing placement of deep brain stimulation electrodes
 
-<img align="right" src="/images/sfn14.png" width="50%"> Deep brain stimulation (DBS) is a highly promising therapy for Parkinson's disease. Yet most patients do not get full therapeutic benefit from DBS due to its critical dependence on electrode location in the sub-thalamic nucleus (STN) for therapeutic efficacy. Previously, many methods have been proposed and used to study rhythmic dynamics in continuous-valued recordings such as EEG and LFP, but methods suitable for the discrete, single unit spiking activity that are typically recorded from STN neurons in Parkinson's disease patients are needed to address a number of critical statistical challenges.
+<a href="/images/sfn14.png"><img align="right" src="/images/sfn14.png" width="50%"/></a> Deep brain stimulation (DBS) is a highly promising therapy for Parkinson's disease. Yet most patients do not get full therapeutic benefit from DBS due to its critical dependence on electrode location in the sub-thalamic nucleus (STN) for therapeutic efficacy. Previously, many methods have been proposed and used to study rhythmic dynamics in continuous-valued recordings such as EEG and LFP, but methods suitable for the discrete, single unit spiking activity that are typically recorded from STN neurons in Parkinson's disease patients are needed to address a number of critical statistical challenges.
 
 
 
