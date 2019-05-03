@@ -19,10 +19,14 @@ Invited Talks
 ### 2016
 * Invited Talk, Buzsaki Lab, New York University, New York, NY
 * Neurostat Seminar, Grossman Center for the Statistics of Mind, Columbia University, New York, NY
+
+### 2015
 * Statistical Neuroscience Lunch Seminar, Brown Institute for Brain Science, Brown University, Providence, RI
 * Invited Session, 37th Annual International Conference of the IEEE Engineering In Medicine and Biology Society, Milan, Italy
 * Young Investigator Lecture, 7th International Workshop on Statistical Analysis of Neuronal Data, Pittsburgh, PA
 * Minisymposium, Society for Industrial and Applied Mathematics Conference on Applications of Dynamical Systems, Snowbird, UT
+
+### 2014
 * Seminar, Department of Mathematics and Statistics, American University, Washington, D.C.
 
 Oral Presentations
