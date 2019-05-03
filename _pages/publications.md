@@ -18,4 +18,4 @@ Peer-Reviewed Conference Proceedings
 
 Patents and Patent Applications
 ------
-1. Alik Widge, Emad Eskandar, Darin Dougherty, Uri Eden, **Xinyi Deng**, Ali Yousefi, and Angelique Paulk. [System and methods for monitoring and improving cognitive exibility](https://patents.google.com/patent/WO2017004362A1/en). Application number US 15/740975. Published on July 12, 2018.
+1. Alik Widge, Emad Eskandar, Darin Dougherty, Uri Eden, **Xinyi Deng**, Ali Yousefi, and Angelique Paulk. [System and methods for monitoring and improving cognitive exibility](https://patents.google.com/patent/US20180192936A1/en). Application number US 15/740975. Published on July 12, 2018.
