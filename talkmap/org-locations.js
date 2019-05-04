@@ -35,6 +35,11 @@ var addressPoints = [
     -71.4128
   ], 
   [
+    "Boston, MA. Oral Presentation. New England Statistics Symposium, Harvard School of Public Health. April 2014", 
+    42.3601, 
+    -71.0589
+  ],   
+  [
     "Pittsburgh, PA. Young Investigator Lecture. 7th International Workshop on Statistical Analysis of Neuronal Data (SAND7). May 2015", 
     40.4406, 
     -79.9959
@@ -58,6 +63,11 @@ var addressPoints = [
     "Cambridge, MA. Poster. Rhythmic Dynamics and Cognition Conference, MIT. June 2013", 
     42.3736, 
     -71.1097
+  ],
+  [
+    "New York, NY. Invited Talk. Buzsaki Lab, New York University. September 2016", 
+    40.7128, 
+    -74.0060
   ], 
   [
     "Snowbird, UT. Minisymposium. Society for Industrial and Applied Mathematics Conference on Applications of Dynamical Systems (SIAM DS). May 2015",
