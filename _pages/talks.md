@@ -39,6 +39,7 @@ author_profile: true
 
 #### 2019 
 * Computational and Systems Neuroscience Annual Meeting, Lisbon, Portugal
+* International Workshop on Statistical Analysis of Neuronal Data, Pittsburgh, PA
 
 #### 2016 
 * Society for Neuroscience Annual Meeting, San Diego, CA
