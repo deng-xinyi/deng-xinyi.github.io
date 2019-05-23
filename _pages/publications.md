@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Preprints and Manuscripts Under Review
+------
+1. Hao Chen, Shizhe Chen, and **Xinyi Deng**. (under review) A universal nonparametric event detection framework for Neuropixels data.
+
 Peer-Reviewed Journal Articles
 ------
 1. **Xinyi Deng**, Daniel Liu, Mattias Karlsson, Loren Frank, and Uri Eden. (2016) [Rapid classification of hippocampal replay content for real-time applications](https://www.physiology.org/doi/full/10.1152/jn.00151.2016). *Journal of Neurophysiology, 116(5)*, 2221--2235.
