@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints and Manuscripts Under Review
 ------
-1. Hao Chen, Shizhe Chen, and **Xinyi Deng**. (under review) A universal nonparametric event detection framework for Neuropixels data. [bioRxiv 650671](https://www.biorxiv.org/content/10.1101/650671v1); doi: 10.1101/650671.
+1. Hao Chen, Shizhe Chen, and **Xinyi Deng**. (under review; [bioRxiv](https://www.biorxiv.org/content/10.1101/650671v1)) A universal nonparametric event detection framework for Neuropixels data. bioRxiv 650671; doi: 10.1101/650671.
 
 Peer-Reviewed Journal Articles
 ------
