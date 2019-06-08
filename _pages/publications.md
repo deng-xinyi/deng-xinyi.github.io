@@ -7,7 +7,8 @@ author_profile: true
 
 Preprints and Manuscripts Under Review
 ------
-1. Hao Chen, Shizhe Chen, and **Xinyi Deng**. (under review; [bioRxiv](https://www.biorxiv.org/content/10.1101/650671v1)) A universal nonparametric event detection framework for Neuropixels data. doi: 10.1101/650671.
+1. **Xinyi Deng**, Shizhe Chen, Marielena Sosa, Mattias Karlsson, Xue-Xin Wei, and Loren Frank. (under review) A variable clock underlies internally generated hippocampal sequences.
+2. Hao Chen, Shizhe Chen, and **Xinyi Deng**. (under review; [bioRxiv](https://www.biorxiv.org/content/10.1101/650671v1)) A universal nonparametric event detection framework for Neuropixels data. doi: 10.1101/650671.
 
 Peer-Reviewed Journal Articles
 ------
