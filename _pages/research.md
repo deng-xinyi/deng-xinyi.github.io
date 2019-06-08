@@ -26,6 +26,6 @@ Deficits in cognitive flexibility have been linked to autism, obsessive-compulsi
 Statistics can be a catalyst for scientific insights
 ------
 
-### Event-to-event variability in rhythmic spiking organization of internally generated hippocampal sequences
+### A variable clock underlies internally generated hippocampal sequences
 
 <a href="/images/cosyne19.png"><img align="right" src="/images/cosyne19.png" alt="variability" width="40%"/></a> The ability to flexibly remember experiences at different levels of specificity is crucial to how we learn and how we make decisions.  However, the underlying mechanisms involved in flexibly storing and retrieving memories in varying degrees of detail remain elusive. Current theories suggest that memories of past experiences are stored when specific patterns of neural activity cause changes in the connections among neurons, and they are retrieved when these patterns are reinstated. For example, when an animal moves through its environment, spiking activity of hippocampal place cells is paced by an underlying "clock" with a constant rate at theta frequency.  When the animal slows down or pauses, place cell population is sequentially reactivated during sharp wave-ripples (SWRs), which often represents a replay of past trajectory on a compressed time scale. Is the hippocampal clock also constant during the SWR state?
