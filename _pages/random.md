@@ -35,7 +35,7 @@ author_profile: true
 
 ### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
 
-### [“I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics”– An interview with Sir David Cox](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
+### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics" – An interview with Sir David Cox](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
 
 
 
