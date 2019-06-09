@@ -27,7 +27,7 @@ author_profile: true
 
 #### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
 
-#### [Kinds of Probability](https://science.sciencemag.org/content/129/3347/443)
+#### [Random Thoughts about Randomness](https://link.springer.com/chapter/10.1007/978-94-010-2140-1_9)
 
 #### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
 
