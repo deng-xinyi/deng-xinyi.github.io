@@ -29,9 +29,9 @@ author_profile: true
 
 ### [Random Thoughts about Randomness](https://link.springer.com/chapter/10.1007/978-94-010-2140-1_9)
 
-### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
-
 ### [All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/cool.jpg)
+
+### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
 
 ### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
 
