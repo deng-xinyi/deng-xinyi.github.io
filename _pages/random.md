@@ -6,34 +6,34 @@ author_profile: true
 ---
 
 
-### My Women in Science Reading List
+## My Women in Science Reading List
 
-#### [An Imagined World: A Story of Scientific Discovery](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)
+### [An Imagined World: A Story of Scientific Discovery](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)
 
-#### [Lessons from the Lobster](https://www.amazon.com/Lessons-Lobster-Marders-Neuroscience-Press-ebook/dp/B07DK1Q71Z)
+### [Lessons from the Lobster](https://www.amazon.com/Lessons-Lobster-Marders-Neuroscience-Press-ebook/dp/B07DK1Q71Z)
 
-#### [Bright Galaxies, Dark Matters](https://www.amazon.com/Bright-Galaxies-Matters-MASTERS-PHYSICS/dp/1563962314)
+### [Bright Galaxies, Dark Matters](https://www.amazon.com/Bright-Galaxies-Matters-MASTERS-PHYSICS/dp/1563962314)
 
-#### [I Died for Beauty: Dorothy Wrinch and the Cultures of Science](https://www.amazon.com/Died-Beauty-Dorothy-Cultures-Science/dp/0199732590)
+### [I Died for Beauty: Dorothy Wrinch and the Cultures of Science](https://www.amazon.com/Died-Beauty-Dorothy-Cultures-Science/dp/0199732590)
 
-#### [Dorothy Hodgkin: A Life](https://www.amazon.com/Dorothy-Crowfoot-Hodgkin-Patterns-Proteins/dp/1448217601)
+### [Dorothy Hodgkin: A Life](https://www.amazon.com/Dorothy-Crowfoot-Hodgkin-Patterns-Proteins/dp/1448217601)
 
 
-### My Philosophy of Statistics Reading List
+## My Philosophy of Statistics Reading List
 
-#### [Some Issues in the Foundation of Statistics](https://link.springer.com/article/10.1007/BF00208723)
+### [Some Issues in the Foundation of Statistics](https://link.springer.com/article/10.1007/BF00208723)
 
-#### [Science and Statistics](https://www.jstor.org/stable/2286841)
+### [Science and Statistics](https://www.jstor.org/stable/2286841)
 
-#### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
+### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
 
-#### [Random Thoughts about Randomness](https://link.springer.com/chapter/10.1007/978-94-010-2140-1_9)
+### [Random Thoughts about Randomness](https://link.springer.com/chapter/10.1007/978-94-010-2140-1_9)
 
-#### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
+### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
 
-#### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
+### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
 
-#### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics"– An interview with Sir David Cox](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
+### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics"– An interview with Sir David Cox](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
 
 
 
