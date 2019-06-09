@@ -31,6 +31,8 @@ author_profile: true
 
 ### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
 
+### [All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/cool.jpg)
+
 ### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
 
 ### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics"– An interview with Sir David Cox](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
