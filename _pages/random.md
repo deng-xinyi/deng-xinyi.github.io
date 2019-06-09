@@ -25,15 +25,15 @@ author_profile: true
 
 ### [Science and Statistics](https://www.jstor.org/stable/2286841)
 
-### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
-
-### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
-
 ### [All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/cool.jpg)
+
+### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
 
 ### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
 
 ### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
+
+### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
 
 ### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics"](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
 
