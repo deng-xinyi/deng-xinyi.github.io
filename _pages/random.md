@@ -27,7 +27,7 @@ author_profile: true
 
 ### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
 
-### [Random Thoughts about Randomness](https://link.springer.com/chapter/10.1007/978-94-010-2140-1_9)
+### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
 
 ### [All of Statistics](https://www.stat.cmu.edu/~larry/all-of-statistics/cool.jpg)
 
