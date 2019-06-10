@@ -16,6 +16,8 @@ author_profile: true
 
 ### [I Died for Beauty: Dorothy Wrinch and the Cultures of Science](https://www.amazon.com/Died-Beauty-Dorothy-Cultures-Science/dp/0199732590)
 
+### [In Praise of Imperfection: My Life and Work](https://www.amazon.com/Praise-Imperfection-My-Life-Work/dp/0465032176)
+
 ### [Dorothy Hodgkin: A Life](https://www.amazon.com/Dorothy-Crowfoot-Hodgkin-Patterns-Proteins/dp/1448217601)
 
 
