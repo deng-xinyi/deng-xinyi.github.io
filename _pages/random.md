@@ -5,6 +5,7 @@ permalink: /random/
 author_profile: true
 ---
 
+"I insisted on working on problems outside the mainstream of astronomy so that I could work at my own pace and not be pressured by bandwagons. I do not offer this as an example for you, but only to show that there can be diverse approaches to science. There must be. I hope some of you will be able to devise your own paths through the complex sociology of science. Science is competitive, aggressive, demanding. It is also imaginative, inspiring, uplifting. You can do it, too." --- Vera Rubin
 
 ## My Women in Science Reading List
 
