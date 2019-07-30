@@ -9,6 +9,8 @@ author_profile: true
 
 ### [An Imagined World: A Story of Scientific Discovery](https://www.amazon.com/Imagined-World-Story-Scientific-Discovery/dp/0140062041)
 
+### [A Feeling for the Organism: The Life and Work of Barbara McClintock](https://www.amazon.com/Feeling-Organism-10th-Aniversary-McClintock-dp-0805074589/dp/0805074589/)
+
 ### [Lessons from the Lobster](https://www.amazon.com/Lessons-Lobster-Marders-Neuroscience-Press-ebook/dp/B07DK1Q71Z)
 
 ### [Bright Galaxies, Dark Matters](https://www.amazon.com/Bright-Galaxies-Matters-MASTERS-PHYSICS/dp/1563962314)
