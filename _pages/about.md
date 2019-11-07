@@ -19,6 +19,6 @@ Throughout my academic training, I have been blessed with outstanding mentors. I
 * **Postdoctoral Training**, [Grossman Center for the Statistics of Mind](http://grossmancenter.columbia.edu/)
   * Columbia University, July 2016--present
 * **Ph.D., Mathematics**, specialization in Statistics
-  * Boston University, 2016
+  * Boston University, May 2016
 * **B.S., Statistics**
-  * American University, 2011
+  * American University, May 2011
