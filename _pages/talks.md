@@ -38,6 +38,7 @@ author_profile: true
 ### Poster Presentations
 
 #### 2019 
+* Society for Neuroscience Annual Meeting, Chicago, IL
 * Computational and Systems Neuroscience Annual Meeting, Lisbon, Portugal
 * International Workshop on Statistical Analysis of Neuronal Data, Pittsburgh, PA
 
