@@ -1,7 +1,7 @@
 ---
 permalink: /chinese/
-title: "邓欣依 - 关于我"
-excerpt: "关于我"
+title: "邓欣依"
+excerpt: "邓欣依"
 author_profile: true
 ---
 
