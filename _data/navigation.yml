@@ -22,8 +22,8 @@ main:
   - title: "Random"
     url: /random/
     
-  #- title: "中文"
-  #  url: /chinese/
+  - title: "关于我"
+    url: /chinese/
 
   #- title: "Blog posts"
   #  url: /year-archive/
