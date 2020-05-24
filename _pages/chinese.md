@@ -17,6 +17,9 @@ author_profile: true
 
 教育背景和科研经历
 ------
+* **讲师**，统计与数据科学学院，2019年11月至今
+  * **北京工业大学**，[理学部](http://slxy.bjut.edu.cn/)
+
 * **博士后研究员**，[Grossman Center for the Statistics of Mind](http://grossmancenter.columbia.edu/)，2016年7月至2019年11月
   * **哥伦比亚大学**，纽约，纽约州
   * 博士后导师：Liam Paninski 教授
