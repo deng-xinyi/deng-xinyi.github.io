@@ -14,12 +14,12 @@ author_profile: true
 * **讲师**，统计与数据科学学院，2019年11月至今
   * **北京工业大学**，[理学部](http://slxy.bjut.edu.cn/)
 
-
-教育背景和科研经历
-------
 * **讲师**，统计与数据科学学院，2019年11月至今
   * **北京工业大学**，[理学部](http://slxy.bjut.edu.cn/)
 
+
+教育背景和科研经历
+------
 * **博士后研究员**，[Grossman Center for the Statistics of Mind](http://grossmancenter.columbia.edu/)，2016年7月至2019年11月
   * **哥伦比亚大学**，纽约，纽约州
   * 博士后导师：Liam Paninski 教授
@@ -37,7 +37,7 @@ author_profile: true
 
 研究方向
 ------
-计算脑神经科学，随机点过程，状态空间模型
+计算神经科学，随机点过程，状态空间模型
 
 
 荣誉和奖励
