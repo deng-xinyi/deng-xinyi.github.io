@@ -1,12 +1,9 @@
 ---
 permalink: /chinese/
-title: "关于我"
+title: "邓欣依 - 关于我"
 excerpt: "关于我"
 author_profile: true
 ---
-
-邓欣依
-------
 
 
 工作单位和职务
