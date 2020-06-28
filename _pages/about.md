@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Department of Statistics at Beijing University of Technology. Previously, I was a postdoctoral research scientist in Dr. Liam Paninski's group in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at Columbia University's Zuckerman Institute of Mind Brain Behavior.
+I am an Assistant Professor in the Department of Data Science at Beijing University of Technology. Previously, I was a postdoctoral research scientist in Dr. Liam Paninski's group in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at Columbia University's Zuckerman Institute of Mind Brain Behavior.
 
 
 Education & Training
