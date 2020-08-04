@@ -24,6 +24,9 @@ main:
     
   - title: "关于我"
     url: /chinese/
+    
+  - title: "计算神经科学系列报告"
+    url: /seminar-series/
 
   #- title: "Blog posts"
   #  url: /year-archive/
