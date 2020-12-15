@@ -37,10 +37,12 @@ author_profile: true
 教学
 ------
 2021春：时间序列分析
+
 2020秋：概率论与数理统计
 
 
 荣誉 & 奖励
 ------
 2019年度Rising Stars in Biomedical
+
 2015年度中国国家优秀自费留学生奖学金
