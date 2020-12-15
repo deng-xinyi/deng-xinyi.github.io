@@ -11,7 +11,7 @@ author_profile: true
 
 #### 2020
 * Invited talk, Institute of Neuroscience/Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, China
-* Invited talk (virtual), China Automation Congress workshop ``Computational Neuroscience and Intelligent Computing Applications", Shanghai, China
+* Invited talk (virtual), China Automation Congress workshop "Computational Neuroscience and Intelligent Computing Applications", Shanghai, China
 
 #### 2019
 * Seminar, Department of Statistics, Beijing University of Technology, Beijing, China
