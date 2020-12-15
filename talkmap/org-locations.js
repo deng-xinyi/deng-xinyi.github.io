@@ -30,9 +30,9 @@ var addressPoints = [
     116.4074
   ],
   [
-    "Shanghai, China. Invited talk, Institute of Neuroscience/Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, China",
-    31.188940, 
-    121.437508
+    "Shanghai, China. Invited talk, Institute of Neuroscience/Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences. November 2020",
+    31.1889, 
+    121.4375
   ],
   [
     "Providence, RI. Statistical Neuroscience Lunch Seminar. Brown Institute for Brain Science, Brown University. October 2015", 
