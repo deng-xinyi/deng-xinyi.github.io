@@ -34,6 +34,8 @@ author_profile: true
 
 ### [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734)
 
+### [What are the most important statistical ideas of the past 50 years?](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/)
+
 ### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
 
 ### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
