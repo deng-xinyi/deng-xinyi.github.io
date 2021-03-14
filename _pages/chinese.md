@@ -40,6 +40,6 @@ author_profile: true
 
 荣誉 & 奖励
 ------
-2019年度Rising Stars in Biomedical
+2019年度[Rising Stars in Biomedical](https://risingstarsbiomed.mit.edu/jhu/rising-stars-women-2019/)
 
-2015年度中国国家优秀自费留学生奖学金
+2015年度[中国国家优秀自费留学生奖学金](https://www.csc.edu.cn/chuguo/s/567)
