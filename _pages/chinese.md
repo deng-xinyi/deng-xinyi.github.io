@@ -8,13 +8,13 @@ author_profile: true
 
 单位 & 职务
 ------
-* **讲师**，统计与数据科学学院，[理学部](http://slxy.bjut.edu.cn/)，2019年11月至今
+* **讲师**，统计与数据科学学院，理学部，2019年11月至今
   * **北京工业大学**，北京市朝阳区
 
 
 教育背景 & 科研经历
 ------
-* **博士后研究员**，[Grossman Center for the Statistics of Mind](http://grossmancenter.columbia.edu/)，2016年7月至2019年11月
+* **博士后研究员**，Grossman Center for the Statistics of Mind，2016年7月至2019年11月
   * **哥伦比亚大学**，纽约，纽约州
   * 博士后导师：Liam Paninski 教授
 
@@ -40,6 +40,6 @@ author_profile: true
 
 荣誉 & 奖励
 ------
-2019年度[Rising Stars in Biomedical](https://risingstarsbiomed.mit.edu/jhu/rising-stars-women-2019/)
+2019年度Rising Stars in Biomedical
 
-2015年度[中国国家优秀自费留学生奖学金](https://www.csc.edu.cn/chuguo/s/567)
+2015年度中国国家优秀自费留学生奖学金
