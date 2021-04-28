@@ -1,6 +1,6 @@
 ---
 permalink: /seminar-series/
-title: "系列报告"
+excerpt: "系列报告"
 author_profile: true
 ---
 
