@@ -1,6 +1,7 @@
 ---
 permalink: /seminar-series/
 title: "计算神经科学系列报告"
+excerpt: "系列报告"
 author_profile: true
 ---
 
