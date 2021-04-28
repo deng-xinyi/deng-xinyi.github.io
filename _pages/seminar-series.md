@@ -1,10 +1,8 @@
 ---
 permalink: /seminar-series/
-excerpt: "系列报告"
+title: "计算神经科学系列报告"
 author_profile: true
 ---
-
-# 计算神经科学系列报告
 
 ## 2021 春夏
 
