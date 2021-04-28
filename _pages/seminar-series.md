@@ -1,9 +1,11 @@
 ---
 permalink: /seminar-series/
-title: "北京工业大学 数据科学系 计算神经科学系列报告"
+title: "系列报告"
 excerpt: "系列报告"
 author_profile: true
 ---
+
+# 计算神经科学系列报告
 
 ## 2021 春夏
 
