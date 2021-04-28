@@ -40,7 +40,7 @@ author_profile: true
 
 ### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
 
-### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics"](https://www.statisticsviews.com/details/feature/5770651/I-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise.html)
+### ["I would like to think of myself as a scientist, who happens largely to specialise in the use of statistics"](https://www.statisticsviews.com/article/i-would-like-to-think-of-myself-as-a-scientist-who-happens-largely-to-specialise-in-the-use-of-statistics-an-interview-with-sir-david-cox/)
 
 
 
