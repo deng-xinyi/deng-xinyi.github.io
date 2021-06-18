@@ -7,8 +7,9 @@ author_profile: true
 
 ## "统计+"
 
-### 2021.06.16 统计+经济：Testing Theories of Default Rules in Health Insurance Markets（Zarek Brot-Goldberg 助理教授，芝加哥大学）
+### 2021.06.16 &nbsp; &nbsp; 统计+经济：Testing Theories of Default Rules in Health Insurance Markets（Zarek Brot-Goldberg 助理教授，芝加哥大学）
 
+---
 
 ## 计算神经科学
 
