@@ -9,6 +9,9 @@ author_profile: true
 
 ### Invited Talks
 
+#### 2021
+* Invited talk (virtual), Tianyuan Mathematical Center in Central China, Wuhan University
+
 #### 2020
 * Invited talk, Institute of Neuroscience/Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, China
 * Invited talk (virtual), China Automation Congress workshop "Computational Neuroscience and Intelligent Computing Applications"
@@ -18,11 +21,11 @@ author_profile: true
 * Seminar, School of Mathematics and Statistics, Wuhan University, Wuhan, China
 
 #### 2018 
-* Invited Talk, Center for Computational Biology, Simons Foundation/Flatiron Institute, New York, NY
+* Invited talk, Center for Computational Biology, Simons Foundation/Flatiron Institute, New York, NY
 
 #### 2016
-* Invited Talk, Buzsaki Lab, New York University, New York, NY
-* Neurostat Seminar, Grossman Center for the Statistics of Mind, Columbia University, New York, NY
+* Invited talk, Buzsaki Lab, New York University, New York, NY
+* Neurostat seminar, Grossman Center for the Statistics of Mind, Columbia University, New York, NY
 
 #### 2015
 * Statistical Neuroscience Lunch Seminar, Brown Institute for Brain Science, Brown University, Providence, RI
