@@ -38,11 +38,9 @@ author_profile: true
 
 ### [A Conversation with David R. Brillinger](https://arxiv.org/abs/1201.2047)
 
-### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
-
 ### [The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis](https://www.amazon.com/dp/0412742500/)
 
-
+### [Good Thinking: The Foundations of Probability and Its Applications](https://www.amazon.com/Good-Thinking-Foundations-Probability-Applications/dp/0486474380)
 
 
 
